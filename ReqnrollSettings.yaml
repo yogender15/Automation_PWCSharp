@@ -1,0 +1,9 @@
+﻿url: CT_URL
+clientId: CT_App_Id
+clientSecret: CT_App_Secret
+users:
+  - user:
+      alias: "caseworker"
+      name: CT_TEST_USER
+      password: CT_TEST_USER_PASSWORD
+      type: "user"

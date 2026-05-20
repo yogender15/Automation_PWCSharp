@@ -1,0 +1,13 @@
+[
+  {
+    "form": "request",
+    "persona": "caseworker",
+    "logicalName": "voa_requestlineitem",
+    "fields": [
+      "voa_requesttypeid"
+    ],
+    "commands": [
+      "Request Action"
+    ]
+  }  
+]
