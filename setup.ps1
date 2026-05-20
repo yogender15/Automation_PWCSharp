@@ -1,0 +1,5 @@
+[System.Environment]::SetEnvironmentVariable("CT_URL","xxxx","User")
+[System.Environment]::SetEnvironmentVariable("CT_App_Id","xxxx","User")
+[System.Environment]::SetEnvironmentVariable("CT_App_Secret","xxxx","User")
+[System.Environment]::SetEnvironmentVariable("CT_TEST_USER","xxxx","User")
+[System.Environment]::SetEnvironmentVariable("CT_TEST_USER_PASSWORD","xxxx","User")
